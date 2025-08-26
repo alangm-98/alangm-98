@@ -32,8 +32,8 @@
 
 <div align="center">
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&hide_border=true)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical&hide_border=true)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=alangm-98&show_icons=true&theme=radical&hide_border=true)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=alangm-98&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
