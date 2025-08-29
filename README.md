@@ -21,11 +21,11 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=java" width="50" />
+<img src="https://skillicons.dev/icons?i=python" width="50" />
+<img src="https://skillicons.dev/icons?i=lua" width="50" />
+<img src="https://skillicons.dev/icons?i=markdown" width="50" />
+<img src="https://skillicons.dev/icons?i=latex" width="50" />
 
 </div>
 
