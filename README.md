@@ -31,10 +31,24 @@
 
 ---
 
+## 🧰 Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=arch" />
+<img src="https://skillicons.dev/icons?i=neovim" />
+<img src="https://skillicons.dev/icons?i=git" />
+
+</div>
+
+---
+
 ## 🔗 Conecta conmigo
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/alan_garmor)](https://www.instagram.com/alan_garmor)
+<a href="https://www.instagram.com/alan_garmor">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 
 </div>
